@@ -312,9 +312,9 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
 * [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
 * [Infisical](https://infisical.com) - Open-source, end-to-end encrypted secrets manager. ![Infisical](https://img.shields.io/github/contributors-anon/infisical/infisical?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Jit](https://jit.io/) - Plug & play, ridiculously easy DevSecOps Toolchain with a native Developer Experience.
 * [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
 * [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
-* [Jit](https://jit.io/) - Plug & play, ridiculously easy DevSecOps Toolchain with a native Developer Experience.
 
 ## Shipping
 *Creating and handling the shipment of goods.*
